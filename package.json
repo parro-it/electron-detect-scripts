@@ -1,6 +1,6 @@
 {
   "name": "electron-detect-scripts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Detect files required via script tags.",
   "repository": "parro-it/electron-detect-scripts",
   "license": "MIT",
